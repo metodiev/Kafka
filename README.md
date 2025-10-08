@@ -1,3 +1,11 @@
+<!-- ====== Badges (centered) ====== -->
+<p align="center">
+  <!-- Example badges using Shields.io -->
+  <img src="https://img.shields.io/badge/Kafka_Learning_Roadmap-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka Learning Roadmap" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Tutorials-FFA500?style=for-the-badge&logo=bookstack&logoColor=white" alt="Tutorials" />
+</p>
+
 # Kafka Learning Roadmap – Beginner to Expert
 
 | #  | Stage        | Topic |
